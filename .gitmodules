@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:happy-someone-wang/EMS-front.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:happy-someone-wang/EMS-back.git
